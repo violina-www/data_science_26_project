@@ -1,3 +1,5 @@
-.ipynb_checkpoints/ 
-data/.ipynb_checkpoints/ 
-data/rotten_tomatoes_critic_reviews.csv 
+.ipynb_checkpoints/
+data/.ipynb_checkpoints/
+
+data/*
+!data/.gitkeep
